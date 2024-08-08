@@ -1,0 +1,6 @@
+﻿  GameBoard.cpp
+  Source.cpp
+C:\Users\hp\source\repos\Tic Tac Toe Game\Source.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  TicTacToe.cpp
+  Generating Code...
+  Tic Tac Toe Game.vcxproj -> C:\Users\hp\source\repos\Tic Tac Toe Game\x64\Debug\Tic Tac Toe Game.exe
