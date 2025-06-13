@@ -38,7 +38,7 @@ char TicTacToe::switchPlayerSymbol(PlayerTurn currentPlayer, char player1Symbol,
 }
 void TicTacToe::playGame()
 {
-	// provides interface to play tic tac toe game 
+	// provides the interface to play tic tac toe game 
 	char player1Symbol;
 	player1Symbol = symbolInput(FIRST_PLAYER);
 	char player2Symbol;

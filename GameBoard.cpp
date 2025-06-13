@@ -3,7 +3,7 @@
 using namespace std;
 GameBoard::GameBoard()
 {
-	//initialize the board with following values
+	//initialize the board with the following values
 	// 1 2 3
 	// 4 5 6
 	// 7 8 9
