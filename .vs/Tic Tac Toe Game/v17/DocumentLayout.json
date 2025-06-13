@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\Tic Tac Toe Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{51CEC91E-DE64-4CC5-A665-C339D67715A1}|Tic Tac Toe Game.vcxproj|C:\\Users\\hp\\source\\repos\\Tic Tac Toe Game\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{51CEC91E-DE64-4CC5-A665-C339D67715A1}|Tic Tac Toe Game.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{51CEC91E-DE64-4CC5-A665-C339D67715A1}|Tic Tac Toe Game.vcxproj|C:\\Users\\hp\\source\\repos\\Tic Tac Toe Game\\TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{51CEC91E-DE64-4CC5-A665-C339D67715A1}|Tic Tac Toe Game.vcxproj|solutionrelative:TicTacToe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -21,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{51CEC91E-DE64-4CC5-A665-C339D67715A1}|Tic Tac Toe Game.vcxproj|C:\\Users\\hp\\source\\repos\\Tic Tac Toe Game\\GameBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{51CEC91E-DE64-4CC5-A665-C339D67715A1}|Tic Tac Toe Game.vcxproj|solutionrelative:GameBoard.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51CEC91E-DE64-4CC5-A665-C339D67715A1}|Tic Tac Toe Game.vcxproj|C:\\Users\\hp\\source\\repos\\Tic Tac Toe Game\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{51CEC91E-DE64-4CC5-A665-C339D67715A1}|Tic Tac Toe Game.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,37 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TicTacToe.cpp",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Tic Tac Toe Game\\TicTacToe.cpp",
               "RelativeDocumentMoniker": "TicTacToe.cpp",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\Tic Tac Toe Game\\TicTacToe.cpp",
               "RelativeToolTip": "TicTacToe.cpp",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAYwFMAAAAAAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAYwEYAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-08T16:08:38.693Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TicTacToe.h",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Tic Tac Toe Game\\TicTacToe.h",
               "RelativeDocumentMoniker": "TicTacToe.h",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\Tic Tac Toe Game\\TicTacToe.h",
               "RelativeToolTip": "TicTacToe.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-08T16:07:56.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Tic Tac Toe Game\\Source.cpp",
               "RelativeDocumentMoniker": "Source.cpp",
@@ -73,26 +73,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "GameBoard.cpp",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Tic Tac Toe Game\\GameBoard.cpp",
               "RelativeDocumentMoniker": "GameBoard.cpp",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\Tic Tac Toe Game\\GameBoard.cpp",
               "RelativeToolTip": "GameBoard.cpp",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAYwGUAAAACAAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAYwGAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-08T16:05:42.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "GameBoard.h",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Tic Tac Toe Game\\GameBoard.h",
               "RelativeDocumentMoniker": "GameBoard.h",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\Tic Tac Toe Game\\GameBoard.h",
               "RelativeToolTip": "GameBoard.h",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwAkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-08-08T16:03:53.794Z",
               "EditorCaption": ""
