@@ -1,0 +1,6 @@
+.vs/
+x64/
+*.db
+*.suo
+*.ipch
+Tic Tac Toe Game.vcxproj.user
